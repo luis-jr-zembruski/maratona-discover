@@ -7,7 +7,6 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/luis-jr-zembruski/maratona-discover?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/luis-jr-zembruski/maratona-discover?color=56BEB8">
 </p>
 
 Status
@@ -61,10 +60,6 @@ $ git clone https://github.com/luis-jr-zembruski/maratona-discover
 # Access
 $ cd maratona-discover
 ```
-
-## :memo: License
-
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Luís Jr. R. Zembruski</a>
 
