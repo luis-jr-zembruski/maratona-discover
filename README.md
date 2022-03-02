@@ -37,7 +37,8 @@ Status
 
 ## :dart: About
 
-Describe your project
+It is an application to control the finances. including income and expenses.
+Only HTML, CSS and Javascript were used for this project.
 
 ## :sparkles: Features
 
