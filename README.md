@@ -1,3 +1,10 @@
+<div align="center" id="top"> 
+  <img src="./assets/logo.svg" alt="Maratona Discover" />
+
+&#xa0;
+
+</div>
+
 <h1 align="center">Maratona Discover</h1>
 
 <p align="center">
@@ -34,9 +41,12 @@ Describe your project
 
 ## :sparkles: Features
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Control your finances;\
+<img src="./readme/main.jpg" alt="Main image for aplication">
+:heavy_check_mark: New Transaction;\
+<img src="./readme/new_transaction.jpg" alt="New Transaction">
+:heavy_check_mark: Operations;
+<img src="./readme/operations.jpg" alt="Operations">
 
 ## :rocket: Technologies
 
